@@ -1,1 +1,1 @@
-get back to home directory
+read me
