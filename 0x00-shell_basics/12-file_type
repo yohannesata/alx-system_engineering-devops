@@ -1,2 +1,2 @@
-#! /bin/bash
+#!/bin/bash
 touch /tmp/12-file_type
